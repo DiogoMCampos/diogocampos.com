@@ -10,7 +10,7 @@ My name is Diogo Campos and I'm a Software Engineer from Porto, Portugal, curren
 
 My interests in tech range far and wide, from the architecture and implementation of large scale software systems to the software release pipeline and enabling fast delivery and iteration.
 
-I'm working as a Software Engineer @ Skyscanner, where I currently build software and libraries to empower hundreds of engineers to build and ship software quickly and safely. 
+I'm working as a Software Engineer @ Skyscanner, where I currently build tools and libraries to empower hundreds of engineers to build and ship software quickly and safely.
 
 Check out my [now](/now) page to see what I'm up to.
 
