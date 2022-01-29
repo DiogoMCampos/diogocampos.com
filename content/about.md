@@ -10,7 +10,8 @@ My name is Diogo Campos and I'm a Software Engineer from Porto, Portugal, curren
 
 My interests in tech range far and wide, from the architecture and implementation of large scale software systems to the software release pipeline and enabling fast delivery and iteration.
 
-I'm working as a Software Engineer @ Skyscanner, where I currently build tools and libraries to empower hundreds of engineers to build and ship software quickly and safely.
+I'm working as a Backend Engineer @ N26, where I currently build the services handling the gateway for the entire N26 backend.
+Previously, I worked as a Software Engineer @ Skyscanner, building tools and libraries to empower hundreds of engineers to build and ship software quickly and safely.
 
 Check out my [now](/now) page to see what I'm up to.
 
@@ -18,8 +19,8 @@ You can email me at [me@diogocampos.com][email] or find me on Twiter [@DiogoMCam
 
 
 ## Professional Experience
-
- - Software Engineer @ Skyscanner | Barcelona, Spain | September 2019 - now
+ - Backend Engineer @ N26 | Remote | January 2022 - now
+ - Software Engineer @ Skyscanner | Barcelona, Spain | September 2019 - January 2022
  - Software Engineer @ Hivemind Institute | Remote | July - November 2018
  - Software Engineering Intern @ Skyscanner | Barcelona, Spain | July - September 2017
  - Software Engineering Intern @ Skyscanner | Sofia, Bulgaria | July - September 2016
